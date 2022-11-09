@@ -1,23 +1,18 @@
-{
-  "last_change": "2022-11-08 20:33",
-  "add": [
-    {
-      "id": "0",
-      "message": "Hello, world!"
-    },
-    { 
-      "id": "1",
-      "message": "My name is Derik."
-    },
-    {
-      "id": "2",
-      "message": "I love Ashley."
-    },
-    {
-      "id": "3",
-      "message": "She's really pretty. Hehe."
-    }
-  ],
-  "remove": [],
-  "update": []
-}
+[
+  {
+    "id": "0",
+    "message": "Hello, world!"
+  },
+  { 
+    "id": "1",
+    "message": "My name is Derik."
+  },
+  {
+    "id": "2",
+    "message": "I love Ashley."
+  },
+  {
+    "id": "3",
+    "message": "She's really pretty. Hehe."
+  }
+]
