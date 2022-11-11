@@ -1,18 +1,56 @@
 [
   {
     "id": "0",
-    "message": "Hello, world!"
+    "message": "Hello, world!",
+    "colour": "#f7fabe",
+    "icon": "0xf04b6", "MaterialIcons"
   },
   { 
     "id": "1",
-    "message": "My name is Derik."
+    "message": "My name is Derik.",
+    "colour": "#befadb",
+    "icon": "0xf04b6", "MaterialIcons"
   },
   {
     "id": "2",
-    "message": "I love Ashley."
+    "message": "I love Ashley.",
+    "colour": "#bec1fa",
+    "icon": ["0xf04b6", "MaterialIcons"]
   },
   {
     "id": "3",
-    "message": "She's really pretty. Hehe."
+    "message": "She's really pretty. Hehe.",
+    "colour": "#efbefa",
+    "icon": "0xf04b6", "MaterialIcons"
+  },
+  {
+    "id": "4",
+    "message": "New content!",
+    "colour": "#fabee7",
+    "icon": "0xf04b6", "MaterialIcons"
+  },
+  {
+    "id": "5",
+    "message": "This string is the bomb B)",
+    "colour": "#bee1fa",
+    "icon": "0xf04b6", "MaterialIcons"
+  },
+  {
+    "id": "6",
+    "message": "Heyyy ;)",
+    "colour": "#fabec3",
+    "icon": "0xf04b6", "MaterialIcons"
+  },
+  {
+    "id": "7",
+    "message": "I miss her.",
+    "colour": "#c4fabe",
+    "icon": "0xf04b6", "MaterialIcons"
+  },
+  {
+    "id": "8",
+    "message": ":(",
+    "colour": "#d8fabe",
+    "icon": "0xf04b6", "MaterialIcons"
   }
 ]
