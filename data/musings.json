@@ -8,7 +8,7 @@
   { 
     "id": "1",
     "message": "My name is Derik.",
-    "colour": "##ffdcd4aa",
+    "colour": "#ffdcd4aa",
     "icon": ["0xe25c", "MaterialIcons"]
   },
   {
