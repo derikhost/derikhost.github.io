@@ -2,55 +2,55 @@
   {
     "id": "0",
     "message": "Hello, world!",
-    "colour": "#f7fabe",
-    "icon": ["0xe25b", "MaterialIcons"]
+    "colour": "#fff7fabe",
+    "icon": ["aac4dc", "MaterialIcons"]
   },
   { 
     "id": "1",
     "message": "My name is Derik.",
-    "colour": "#befadb",
+    "colour": "##ffdcd4aa",
     "icon": ["0xe25c", "MaterialIcons"]
   },
   {
     "id": "2",
     "message": "I love Ashley.",
-    "colour": "#bec1fa",
+    "colour": "#ffdcd4aa",
     "icon": ["0xe26a", "MaterialIcons"]
   },
   {
     "id": "3",
     "message": "She's really pretty. Hehe.",
-    "colour": "#efbefa",
+    "colour": "#ffc4aadc",
     "icon": ["0xe26e", "MaterialIcons"]
   },
   {
     "id": "4",
     "message": "New content!",
-    "colour": "#fabee7",
+    "colour": "#ffc4aadc",
     "icon": ["0xe285", "MaterialIcons"]
   },
   {
     "id": "5",
     "message": "This string is the bomb B)",
-    "colour": "#bee1fa",
+    "colour": "#ffaadcc8",
     "icon": ["0xf0503", "MaterialIcons"]
   },
   {
     "id": "6",
     "message": "Heyyy ;)",
-    "colour": "#fabec3",
+    "colour": "#ffdcaacf",
     "icon": ["0xe296", "MaterialIcons"]
   },
   {
     "id": "7",
     "message": "I miss her.",
-    "colour": "#c4fabe",
+    "colour": "#ffdcc9aa",
     "icon": ["0xe2b2", "MaterialIcons"]
   },
   {
     "id": "8",
     "message": ":(",
-    "colour": "#d8fabe",
+    "colour": "#ffdcb2aa",
     "icon": ["0xe332", "MaterialIcons"]
   }
 ]
