@@ -3,54 +3,63 @@
     "id": "0",
     "message": "Hello, world!",
     "colour": "#fff7fabe",
-    "icon": ["0xe25b", "MaterialIcons"]
+    "icon": ["0xe25b", "MaterialIcons"],
+    "date": [2022, 11, 11]
   },
   { 
     "id": "1",
     "message": "My name is Derik.",
     "colour": "#ffdcd4aa",
-    "icon": ["0xe25c", "MaterialIcons"]
+    "icon": ["0xe25c", "MaterialIcons"],
+    "date": [2022, 11, 11]
   },
   {
     "id": "2",
     "message": "I love Ashley.",
     "colour": "#ffdcd4aa",
-    "icon": ["0xe26a", "MaterialIcons"]
+    "icon": ["0xe26a", "MaterialIcons"],
+    "date": [2022, 11, 11]
   },
   {
     "id": "3",
     "message": "She's really pretty. Hehe.",
     "colour": "#ffc4aadc",
-    "icon": ["0xe26e", "MaterialIcons"]
+    "icon": ["0xe26e", "MaterialIcons"],
+    "date": [2022, 11, 11]
   },
   {
     "id": "4",
     "message": "New content!",
     "colour": "#ffc4aadc",
-    "icon": ["0xe285", "MaterialIcons"]
+    "icon": ["0xe285", "MaterialIcons"],
+    "date": [2022, 11, 11]
   },
   {
     "id": "5",
     "message": "This string is the bomb B)",
     "colour": "#ffaadcc8",
-    "icon": ["0xf0503", "MaterialIcons"]
+    "icon": ["0xf0503", "MaterialIcons"],
+    "date": [2022, 11, 11]
   },
   {
     "id": "6",
     "message": "Heyyy ;)",
     "colour": "#ffdcaacf",
-    "icon": ["0xe296", "MaterialIcons"]
+    "icon": ["0xe296", "MaterialIcons"],
+    "date": [2022, 11, 11]
   },
   {
     "id": "7",
     "message": "I miss her.",
     "colour": "#ffdcc9aa",
-    "icon": ["0xe2b2", "MaterialIcons"]
+    "icon": ["0xe2b2", "MaterialIcons"],
+    "date": [2022, 11, 11]
   },
   {
     "id": "8",
     "message": ":(",
     "colour": "#ffdcb2aa",
-    "icon": ["0xe332", "MaterialIcons"]
+    "icon": ["0xe332", "MaterialIcons"],
+    "date": [2022, 11, 11]
   }
 ]
