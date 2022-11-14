@@ -5,5 +5,12 @@
     "colour": "#ffc4aadc",
     "icon": ["0xe25c", "MaterialIcons"],
     "date": [2022, 11, 13]
+  },
+  {
+    "id": "2",
+    "message": "Every word you speak is a note in the most beautiful song ever written. Your heart is a metronome and your laugh a crescendo. You are my favourite genre.",
+    "colour": "#ffd4f0f0",
+    "icon": ["0xe076", "MaterialIcons"],
+    "date": [2022, 11, 14]
   }
 ]
