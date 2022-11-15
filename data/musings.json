@@ -12,5 +12,12 @@
     "colour": "#ffd4f0f0",
     "icon": ["0xe076", "MaterialIcons"],
     "date": [2022, 11, 14]
+  } ,
+  {
+    "id": "3",
+    "message": "I love rainy days. Rainy days are warm cuddles and tea. They're comfort food, reading socks, and making fun of dumb action movies. A rainy day is the perfect excuse to hog you all to myself and kiss and hug and hold you.",
+    "colour": "#ffbffcc6",
+    "icon": ["0xe0d6", "MaterialIcons"],
+    "date": [2022, 11, 15]
   }
 ]
