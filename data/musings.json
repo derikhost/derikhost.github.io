@@ -12,12 +12,19 @@
     "colour": "#ffd4f0f0",
     "icon": ["0xe076", "MaterialIcons"],
     "date": [2022, 11, 14]
-  } ,
+  },
   {
     "id": "3",
     "message": "I love rainy days. Rainy days are warm cuddles and tea. They're comfort food, reading socks, and making fun of dumb action movies. A rainy day is the perfect excuse to hog you all to myself and kiss and hug and hold you.",
     "colour": "#ffbffcc6",
     "icon": ["0xe0d6", "MaterialIcons"],
     "date": [2022, 11, 15]
+  },
+  {
+    "id": "4",
+    "message": "I love the way you view self growth. When we first started talking, I quickly found out that there were behavioral remnants of less-than-great relationships I was a part of. But I never felt broken. I felt empowered. You showed me that I could be better for myself and for you.",
+    "colour": "#ffff928b",
+    "icon": ["0xe313", "MaterialIcons"],
+    "date": [2022, 11, 16]
   }
 ]
