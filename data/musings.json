@@ -26,5 +26,12 @@
     "colour": "#ffff928b",
     "icon": ["0xe313", "MaterialIcons"],
     "date": [2022, 11, 16]
+  },
+  {
+    "id": "5",
+    "message": "I always want to hold you. Your hand, your arm, your buttcheek. Every piece of me wants to be in contact with every piece of you. I get a thrill and my heart skips a beat every time we walk and our hands reach for one another.",
+    "colour": "#fff1e0b0",
+    "icon": ["0xe23a", "MaterialIcons"],
+    "date": [2022, 11, 17]
   }
 ]
