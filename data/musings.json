@@ -33,5 +33,19 @@
     "colour": "#fff1e0b0",
     "icon": ["0xe23a", "MaterialIcons"],
     "date": [2022, 11, 17]
+  },
+  {
+    "id": "6",
+    "message": "Until you, I didn't realize how precious time is. I always lived my life with time in excess. But when an hour passes in the blink of an eye, my entire perspective has changed. A lifetime doesn't even feel like enough time to love you.",
+    "colour": "#ffdcb6aa",
+    "icon": ["0xe6cf", "MaterialIcons"],
+    "date": [2022, 11, 18]
+  },
+  {
+    "id": "7",
+    "message": "I will always have more love to give you. You need some reassurance? You want to hear me tell you that I love you? You need an extra cuddle even when we've been cudding all day? It doesn't matter. Tell me and I'll give you at least as much love as you want.",
+    "colour": "#ffdcaadc",
+    "icon": ["0xe6c6", "MaterialIcons"],
+    "date": [2022, 11, 19]
   }
 ]
