@@ -47,5 +47,20 @@
     "colour": "#ffdcaadc",
     "icon": ["0xe6c6", "MaterialIcons"],
     "date": [2022, 11, 19]
+  },
+  {
+    "id": "8",
+    "message": "Little else exemplifies our cohesion as a team quite like making tea together. Both of us contribute varying amounts depending on the individual day and we always end up with a delicious and satisfying end product.",
+    "colour": "#ffb1907f",
+    "icon": ["0xe178", "MaterialIcons"],
+    "date": [2022, 11, 20]
+  },
+  {
+    "id": "9",
+    "message": "Little else exemplifies how terribly we work as adjacent individuals quite like our (as of writing) unfinished Peggy's Cove puzzle. Our once fiery determination to finish the puzzle fell flat in the face of the temptation to cuddle for just five more minutes.",
+    "colour": "#ff82ffcd",
+    "icon": ["0xe250", "MaterialIcons"],
+    "date": [2022, 11, 21]
   }
+  
 ]
