@@ -61,6 +61,20 @@
     "colour": "#ff82ffcd",
     "icon": ["0xe250", "MaterialIcons"],
     "date": [2022, 11, 21]
+  },
+  {
+    "id": "10",
+    "message": "Sometimes I wish I was there for your figure skating and synchro days. It was such a huge part of your life for a long time and pictures aren't sufficient to capture the little things: morning Ashley, weary-eyed and bitter, slinking off to practice; inconsequential locker room conversations between friends and teammates that are forgotten minutes later; the thrill of a treat after a hard-fought competition day, muscles aching with the satisfaction of giving it one's all. Maybe I'm romanticizing the whole thing, but I'll never know for sure. What I do know is that I would have been your biggest fan.",
+    "colour": "#ffbec6f0",
+    "icon": ["0xe330", "MaterialIcons"],
+    "date": [2022, 11, 22]
+  },
+  {
+    "id": "11",
+    "message": "I like thinking about that summer day when we were just getting over our colds and we paid a visit to Osprey Village. We were sitting on the grass patch next to the trail with our ice cream and your camera and just being goofballs in public. Everybody around us definitely knew that we were in love. I have so many memories of that trail with so many different people and yet I have to struggle to think of anyone except you when it comes to mind. You have so easily pushed yourself to the forefront of my brain.",
+    "colour": "#ffbef0c9",
+    "icon": ["0xe331", "MaterialIcons"],
+    "date": [2022, 11, 23]
   }
   
 ]
