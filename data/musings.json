@@ -75,6 +75,13 @@
     "colour": "#ffbef0c9",
     "icon": ["0xe331", "MaterialIcons"],
     "date": [2022, 11, 23]
+  },
+  {
+    "id": "12",
+    "message": "It snowed tonight for the first time this seasonal cycle. And with the snow, another entire facet of life has been unlocked for us to enjoy. Like activities! Sledding, snowball fights, snow construction of all kinds. But not just that. It unlocks new feelings. I can look at the beauty in the landscape of a fresh snowfall and then in your face when your excitement shines through your eyes. It unlocks new ways to show my love. I can shovel a path for my lady to get to her car. I can make a heart for you out of snow. I can tell you that I love you snow snow snow much. I can run away from it all with you and shun the snow; we can hide away inside. Warmth is so much cozier when contrasted with cold. All of the things seem like so much fun and I can't wait to experience it all with you.",
+    "colour": "#ffaaccdc",
+    "icon": ["0xf056b", "MaterialIcons"],
+    "date": [2022, 11, 29]
   }
   
 ]
